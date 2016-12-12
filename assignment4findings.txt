@@ -1,0 +1,21 @@
+Assignment 4 findings by Alex Guerrero (4063459)
+
+Assumptions:
+	
+	Array list are fastest at single item insertion
+	Hash tables are fastest for single item retrieval
+	Sorted lists would take the longest to search for a single item
+Findings:
+
+1.  Average insertion time for one object was much faster in a sorted list than the rest of the collections objects
+2.  Hash table insertion time was the longest.
+3.  Array list was fast at searching for a single item
+4.  Sorted list took the longest in retrieving a single item.
+5.  Hash table was fastest at retrieving a block of data by quite a bit.
+6.  Dictionary was slowest when retrieving a block of data.
+
+Conclusion:
+
+	From a performance standard, I would say that each has its strengths and could be considered to have the 
+	best performance based on the requirements of the program.
+	
