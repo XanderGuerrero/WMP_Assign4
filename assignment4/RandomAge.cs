@@ -2,7 +2,7 @@
 //PROJECT :     assignment4
 //Date	:	    10/10/2014
 //AUTHORS	:	Alex Guerrero
-//DISCRIPTION :	This RandomAgeGender.cs file contains a public class called RandomAgeGender.  It implements
+//DESCRIPTION :	This RandomAgeGender.cs file contains a public class called RandomAgeGender.  It implements
 //              methods to create random values of ints
 
 

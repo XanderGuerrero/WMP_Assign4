@@ -2,7 +2,7 @@
 //PROJECT :     assignment4
 //Date	:	    10/10/2014
 //AUTHORS	:	Alex Guerrero
-//DISCRIPTION :	This program tests the execution time of inserting and retrieving data into a Hashtable
+//DESCRIPTION :	This program tests the execution time of inserting and retrieving data into a Hashtable
 // 	            ArrayList, Sorted list and Dictionary
 
 

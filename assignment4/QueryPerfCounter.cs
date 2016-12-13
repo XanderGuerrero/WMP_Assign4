@@ -2,7 +2,7 @@
 //PROJECT :     assignment4
 //Date	:	    10/10/2014
 //AUTHORS	:	Alex Guerrero
-//DISCRIPTION :	This QueryPerfCounter.cs file contains a public class called QueryPerfCounter.  It provides
+//DESCRIPTION :	This QueryPerfCounter.cs file contains a public class called QueryPerfCounter.  It provides
 //              The timer required to time the tests.
 
 using System;

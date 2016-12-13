@@ -2,7 +2,7 @@
 //PROJECT :     assignment4
 //Date	:	    10/10/2014
 //AUTHORS	:	Alex Guerrero
-//DISCRIPTION :	This People.cs file contains a public class called People.  It provides
+//DESCRIPTION :	This People.cs file contains a public class called People.  It provides
 //              an object to store data into for the program to run tests and display test results.
 
 

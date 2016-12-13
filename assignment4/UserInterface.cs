@@ -2,7 +2,7 @@
 //PROJECT :     assignment4
 //Date	:	    10/10/2014
 //AUTHORS	:	Alex Guerrero
-//DISCRIPTION :	This UserInterface.cs file contains a public class called UserInterface.  It provides
+//DESCRIPTION :	This UserInterface.cs file contains a public class called UserInterface.  It provides
 //              a data access layer for the program to run tests and display test results.
 
 
